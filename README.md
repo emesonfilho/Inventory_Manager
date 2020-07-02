@@ -9,9 +9,46 @@ Além disso é possível realizar o cadastro de mais funcionários:
 
 > A chave de segurança é um código escolhido pela gerencia para controlar os cadastros.
 
+Uma vez que um gerente loga ele tem acesso a essa tela:
+
+![image](https://user-images.githubusercontent.com/48841448/86315940-e8815280-bc01-11ea-952d-d8b0d19ac835.png)
+
+Onde é possível:
+* Ver os compromissos agendados para o negócio;
+* Checar as Saídas dos produtos;
+* Gerar alguns gráficos sobre os produtos;
+* Deletar e registrar produtos, seja por ID ou por seleção na tela.
+
+Sobre os compromissos:
+
+![image](https://user-images.githubusercontent.com/48841448/86315958-f46d1480-bc01-11ea-8fe4-32f194e8751b.png)
+
+> Assim como no estoque, aqui também é possível realizar o registro e deletar as informações.
+
+A respeito das saídas:
+
+![image](https://user-images.githubusercontent.com/48841448/86315989-0484f400-bc02-11ea-90f2-c884b072ea91.png)
+
+> O objetivo é a gerência ter o controle das baixas do estoque.
+
+Alguns exemplos dos gráficos gerados:
+
+![image](https://user-images.githubusercontent.com/48841448/86316049-30a07500-bc02-11ea-862b-27472678ee00.png)
+
+> Ai um gráfico da quantidade dos produtos presente no estoque.
+
+![image](https://user-images.githubusercontent.com/48841448/86316064-3a29dd00-bc02-11ea-81ba-127aff3da50c.png)
+
+> Aqui um outro a respeito do preço de cada um.
+
+Por outro lado, caso o funcionário logado não tenha acesso aos dados da gerência, a tela dele vai ser essa:
+
+![image](https://user-images.githubusercontent.com/48841448/86316558-714cbe00-bc03-11ea-9ed6-5a3c2ab48e50.png)
+
+Nesse caso é possível dar a baixa nos estoques, e checar os compromissos ou lembretes a respeito das atividades da empresa. 
 
 
 
 
-# Inventory Manager
-Software to manage small business inventory
+
+
