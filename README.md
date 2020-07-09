@@ -49,7 +49,11 @@ Por outro lado, caso o funcionário logado não tenha acesso aos dados da gerên
 
 Nesse caso é possível dar a baixa nos estoques, e checar os compromissos ou lembretes a respeito das atividades da empresa. 
 
+## Ajuda de manutenção
 
+Se você gostou e quer me ajudar a manter os repositórios, e a comprar um café fique a vontade:
+
+<a href="https://www.buymeacoffee.com/emesonfilho" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 
 
